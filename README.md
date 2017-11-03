@@ -31,9 +31,7 @@ create a theme for your dropdowns and tabs, or you can write your own CSS.
 ### Create the HTML
 
 Use the following HTML structure. Ensure that the `href` attribute for each tab
-heading matches the corresponding section `id` attribute. The dropdown headings
-do not have to be `<h1>`, but you will need to pass whatever level you use
-as an option in your JavaScript.
+heading matches the corresponding section `id` attribute. 
 
 You can change the `dropdown-tabs` class to anything you like, but the other
 classes are required.
